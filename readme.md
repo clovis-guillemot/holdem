@@ -1,4 +1,4 @@
-#Holdem 5 cards comparator
+## Holdem 5 cards comparator
 
 This repo is a Symfony application displaying a form with 2 fields, representing 2 poker hands.
 
